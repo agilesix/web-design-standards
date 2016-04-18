@@ -1013,3 +1013,17 @@ $font-light: 300;
   }
   padding-left: 2rem;
 }
+
+.agilesix-disclaimer-official {
+  @include media($medium-screen) {
+    padding-left: $site-margins;
+  }
+  padding-left: 2rem;
+}
+
+
+  .agilesix-logo {
+    height:32x;
+    width:75px;
+  }
+
